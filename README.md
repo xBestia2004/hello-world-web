@@ -11,7 +11,7 @@ Przed rozpoczęciem instalacji upewnij się, że masz zainstalowane:
 ## Instalacja
 1. Sklonuj repozytorium:
    ```sh
-   git clone https://github.com/username/hello-world-web.git
+   git clone https://github.com/xBestia2004/hello-world-web.git
    cd hello-world-web
    ```
 
